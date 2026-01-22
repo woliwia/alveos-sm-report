@@ -1,0 +1,273 @@
+
+{
+  "metrics": {
+    "instagram": [
+      {
+        "format": "Static",
+        "posts": 5,
+        "totalReach": 3428,
+        "avgReach": 686,
+        "avgER": 3.09,
+        "avgSaveRate": 0.96,
+        "avgShareRate": 0.17,
+        "totalFollows": 5,
+        "color": "#002B1B"
+      },
+      {
+        "format": "Carousels",
+        "posts": 11,
+        "totalReach": 7058,
+        "avgReach": 642,
+        "avgER": 2.54,
+        "avgSaveRate": 1.02,
+        "avgShareRate": 0.23,
+        "totalFollows": 8,
+        "color": "#4A5D4E"
+      },
+      {
+        "format": "Reels",
+        "posts": 6,
+        "totalReach": 3626,
+        "avgReach": 604,
+        "avgER": 2.25,
+        "avgSaveRate": 0.66,
+        "avgShareRate": 0.40,
+        "totalFollows": 9,
+        "color": "#8E9A82"
+      }
+    ],
+    "facebook": [
+      {
+        "format": "Photos",
+        "posts": 15,
+        "totalReach": 1175,
+        "avgReach": 78,
+        "avgER": 0.42,
+        "avgClickRate": 0.38,
+        "color": "#002B1B"
+      },
+      {
+        "format": "Videos",
+        "posts": 6,
+        "totalReach": 401,
+        "avgReach": 67,
+        "avgER": 0.00,
+        "avgClickRate": 0.37,
+        "avgWatchPercent": 25.6,
+        "color": "#D1C9BC"
+      }
+    ],
+    "linkedin": [
+      {
+        "format": "Non-video",
+        "posts": 15,
+        "impressions": 2413,
+        "clicks": 313,
+        "ctr": 13.0,
+        "er": 14.9,
+        "color": "#0A66C2"
+      },
+      {
+        "format": "Video",
+        "posts": 6,
+        "impressions": 879,
+        "clicks": 60,
+        "ctr": 6.8,
+        "er": 8.0,
+        "avgViews": 147,
+        "color": "#D1C9BC"
+      }
+    ],
+    "youtube": [
+      {
+        "format": "Short-form (≤90s)",
+        "videos": 25,
+        "views": 2242,
+        "watchTime": 5.42,
+        "avgDuration": "8.7s",
+        "retention": 16.7,
+        "impressions": 1212,
+        "ctr": 4.21,
+        "engagementRate": 0.89,
+        "color": "#FF0000"
+      },
+      {
+        "format": "Long-form (>90s)",
+        "videos": 8,
+        "views": 36,
+        "watchTime": 0.03,
+        "avgDuration": "3.2s",
+        "retention": 4.0,
+        "impressions": 519,
+        "ctr": 3.85,
+        "engagementRate": 5.56,
+        "color": "#002B1B"
+      }
+    ]
+  },
+  "hashtags": {
+    "er_performance": [
+      { "tag": "#healthtech", "count": 4, "avgER": 22.6, "type": "top" },
+      { "tag": "#datavisualization", "count": 2, "avgER": 20.2, "type": "top" },
+      { "tag": "#biohacking", "count": 5, "avgER": 17.9, "type": "top" },
+      { "tag": "#breathingmonitor", "count": 3, "avgER": 17.5, "type": "top" },
+      { "tag": "#innovation", "count": 3, "avgER": 17.5, "type": "top" },
+      { "tag": "#wearabletech", "count": 3, "avgER": 17.5, "type": "top" }
+    ],
+    "volume_drivers": [
+      { "tag": "#alveos", "count": 21 },
+      { "tag": "#respiratoryintelligence", "count": 19 },
+      { "tag": "#nervoussystemhealth", "count": 15 },
+      { "tag": "#biohacking", "count": 10 },
+      { "tag": "#breathwork", "count": 8 },
+      { "tag": "#healthtech", "count": 7 }
+    ]
+  },
+  "posts": {
+    "instagram": {
+      "top": [
+        {
+          "date": "Jan 2",
+          "format": "Static",
+          "reach": 770,
+          "er": 9.61,
+          "saves": 29,
+          "comments": 7,
+          "follows": 3,
+          "learning": "Quantified hook + clear launch moment drives saves + discussion.",
+          "imageUrl": "assets/kickstarter.jpg"
+        },
+        {
+          "date": "Dec 23",
+          "format": "Reel",
+          "reach": 1630,
+          "er": 6.43,
+          "saves": 19,
+          "shares": 4,
+          "learning": "Strong educational hook with retention sitting at 16.8%.",
+          "imageUrl": "assets/huberman.jpg"
+        },
+        {
+          "date": "Dec 20",
+          "format": "Carousel",
+          "reach": 600,
+          "er": 5.17,
+          "saves": 14,
+          "shares": 8,
+          "learning": "“Data without context” angle is highly shareable when the takeaway is crisp.",
+          "imageUrl": "assets/mockup.jpg"
+        }
+      ],
+      "bottom": [
+        { "date": "Dec 21", "format": "Static", "reach": 569, "er": 0.70, "learning": "Lower reach on standard educational statics." },
+        { "date": "Dec 24", "format": "Carousel", "reach": 757, "er": 0.92, "learning": "Holiday timing affected engagement rate." },
+        { "date": "Dec 29", "format": "Reel", "reach": 778, "er": 1.03, "learning": "Audio choice did not resonate with core audience." }
+      ]
+    },
+    "linkedin": {
+      "top": [
+        {
+          "date": "Dec 20",
+          "format": "Non-video",
+          "reach": 174,
+          "er": 37.9,
+          "clicks": 60,
+          "ctr": 34.5,
+          "learning": "“Data without context is just noise…” drives massive CTR and engagement.",
+          "imageUrl": "assets/mockup.jpg"
+        },
+        {
+          "date": "Dec 23",
+          "format": "Non-video",
+          "reach": 136,
+          "er": 32.4,
+          "clicks": 39,
+          "ctr": 28.7,
+          "learning": "Contrast framing about wearable limitations resonates with tech-savvy audiences.",
+          "imageUrl": "assets/huberman.jpg"
+        },
+        {
+          "date": "Dec 16",
+          "format": "Non-video",
+          "reach": 199,
+          "er": 26.1,
+          "clicks": 51,
+          "ctr": 25.6,
+          "learning": "Direct health warnings (mouth breathing) convert curiosity into clicks effectively.",
+          "imageUrl": "assets/kickstarter.jpg"
+        }
+      ],
+      "bottom": [
+        {
+          "date": "Dec 26",
+          "format": "Non-video",
+          "reach": 71,
+          "er": 0,
+          "clicks": 0,
+          "ctr": 0,
+          "learning": "Abstract themes like stress management without a concrete data hook often fall flat."
+        },
+        {
+          "date": "Dec 18",
+          "format": "Non-video",
+          "reach": 405,
+          "er": 1.48,
+          "clicks": 3,
+          "ctr": 0.74,
+          "learning": "Anatomical educational content requires higher production value to hold attention."
+        },
+        {
+          "date": "Dec 15",
+          "format": "Video",
+          "reach": 879,
+          "er": 2.1,
+          "clicks": 14,
+          "ctr": 1.6,
+          "learning": "Video performance on LI is currently trailing text/image in CTR efficiency."
+        }
+      ]
+    }
+  },
+  "audience": {
+    "demographics": [
+      { "segment": "45–54", "percentage": 19.7, "gender": "Women" },
+      { "segment": "35–44", "percentage": 14.0, "gender": "Women" },
+      { "segment": "35–44", "percentage": 18.5, "gender": "Men" },
+      { "segment": "45–54", "percentage": 14.0, "gender": "Men" }
+    ],
+    "countries": [
+      { "country": "United States", "percentage": 45.3 },
+      { "country": "Australia", "percentage": 18.4 },
+      { "country": "United Kingdom", "percentage": 15.6 },
+      { "country": "Canada", "percentage": 8.4 }
+    ]
+  },
+  "timing": {
+    "linkedin_days": [
+      { "day": "Mon", "status": "low" },
+      { "day": "Tue", "status": "high" },
+      { "day": "Wed", "status": "neutral" },
+      { "day": "Thu", "status": "low" },
+      { "day": "Fri", "status": "neutral" },
+      { "day": "Sat", "status": "high" },
+      { "day": "Sun", "status": "neutral" }
+    ]
+  },
+  "highlights": [
+    {
+      "title": "YouTube: Retention Win",
+      "content": "Short-form weighted retention sits at 16.7%. The stress-to-calm short drives 71% of total views.",
+      "type": "positive"
+    },
+    {
+      "title": "LinkedIn: Intent King",
+      "content": "High CTR (11.5%) confirms LinkedIn as the primary channel for white-paper and web-traffic intent.",
+      "type": "positive"
+    },
+    {
+      "title": "Platform Health",
+      "content": "Combined community growth of +26 across all surfaces demonstrates healthy ecosystem expansion.",
+      "type": "info"
+    }
+  ]
+}
